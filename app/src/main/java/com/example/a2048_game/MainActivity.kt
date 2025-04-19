@@ -1,3 +1,25 @@
+/**
+ * Inspired by the original 2048 game:
+ * https://play2048.co/
+ *
+ * Some logic ideas referenced from:
+ * https://github.com/gabrielecirulli/2048 (original web version)
+ * https://github.com/yangshun/2048-android (Kotlin implementation)
+ *
+ * Kotlin-based UI examples reviewed from:
+ * https://developer.android.com/jetpack/compose
+ * https://github.com/android/compose-samples
+ */
+
+/**
+ * LLM Prompt history (ChatGPT):
+ * - "How to detect swipe gestures in Jetpack Compose?"
+ * - "How to animate tiles on update in 2048?"
+ * - "How to save best score in SharedPreferences?"
+ * - "How to implement dark/light theme switching in Compose?"
+ * - "How to restrict screen orientation in Android?"
+ */
+
 package com.example.a2048_game
 
 import android.content.Context
